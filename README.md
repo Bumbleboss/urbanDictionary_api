@@ -1,4 +1,4 @@
-<img align="right" src="https://d2gatte9o95jao.cloudfront.net/assets/logo-1b439b7fa6572b659fbef161d8946372f472ef8e7169db1e47d21c91b410b918.svg" height="100" width="100">
+<img align="right" src="https://d2gatte9o95jao.cloudfront.net/assets/apple-touch-icon-1734beeaa059fbc5587bddb3001a0963670c6de8767afb6c67d88d856b0c0dad.png" height="100" width="100">
 
 ## Urban Dictionary API
 A Java API wrapper for [Urban Dictionary](https://www.urbandictionary.com/)
@@ -14,7 +14,8 @@ System.out.println(api.getUrbanInfo("urban").getInfo().get(0).definition);
 ```
 
 ## Download
-In a min
+**Latest version**: [GitHub releases](https://github.com/Bumbleboss/urbanDictionary_api/releases) [![](https://jitpack.io/v/Bumbleboss/urbanDictionary_api.svg)](https://jitpack.io/#Bumbleboss/urbanDictionary_api)
+
 
 ## Dependencies
 * [gson-2.8.5](https://github.com/google/gson)
